@@ -1,0 +1,44 @@
+h1{
+    font-family:'Yusei Magic', sans-serif ;
+    margin-top: 30%;
+}
+#home{
+   align-items: center;
+   justify-content: center;
+    top:30%;
+}
+h2{
+    font-family:  'Caveat', cursive;
+}
+#about_div2{
+    width:600px;
+
+    /* background-image: url("dsc_web_30-05.png");
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 2px; */
+    
+}
+.contain {
+    position: relative;
+    text-align: center;
+  
+  }
+  
+  .centered {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    min-width:400px ;
+    transform: translate(-30%, -40%);
+  }
+
+#about_div1{
+    width:400px;
+}
+#img_bg{
+    width:400px;
+    height:250px;
+}
